@@ -1,1 +1,4 @@
-## Este es el README del archivo donde vamos  a documentar nuestra app
+## README - GIT & GitHub
+
+Gestor de  versiones  
+
