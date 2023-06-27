@@ -1,16 +1,5 @@
 ## Este es el README para menejar las versiones Git & GitHub
-El mensaje de error que estás recibiendo indica que tienes cambios locales sin confirmar en el archivo 
-README.md, y esos cambios entrarían en conflicto con la fusión que estás intentando hacer. Para resolver 
-este problema, tienes dos opciones:
-
-
-Opción 1: Confirmar los cambios locales:
-
-git add README.md: Agrega el archivo README.md al área de preparación.
-
-git commit -m "Guardar cambios locales": Confirma los cambios locales con un mensaje descriptivo.
-
-Una vez confirmados los cambios locales, puedes intentar fusionar nuevamente.
+Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hoja
 
 
 Opción 2: Almacenar los cambios locales temporalmente:
