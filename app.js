@@ -13,8 +13,18 @@ let personas = [
         apellido:  'Virreyra',
         edad: 23
     },
-    {id:'3', nombre: 'Maria'},
-    {id:'4', nombre: 'Carlos'}
+    {
+        id: "3",
+        nombre: 'Juan',
+        apellido:  'Marti',
+        edad: 23
+    },
+    {
+        id: "4",
+        nombre: 'Josefina',
+        apellido:  'Pereyra',
+        edad: 23
+    }
 ]
 
 // Destructuring
